@@ -1,0 +1,22 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01
+Analyzed List:	Client Text Box Input (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20595)	Client Text Box Input (149)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (raw P-value)	Client Text Box Input (FDR)
+regulation of transcription by RNA polymerase II (GO:0006357)	2595	38	18.77	+	2.02	1.88E-05	3.30E-02
+regulation of transcription, DNA-templated (GO:0006355)	3474	47	25.13	+	1.87	1.36E-05	4.31E-02
+regulation of nucleic acid-templated transcription (GO:1903506)	3475	47	25.14	+	1.87	1.37E-05	3.60E-02
+regulation of RNA biosynthetic process (GO:2001141)	3480	47	25.18	+	1.87	1.39E-05	3.13E-02
+regulation of cellular macromolecule biosynthetic process (GO:2000112)	3968	53	28.71	+	1.85	3.28E-06	5.19E-02
+regulation of macromolecule biosynthetic process (GO:0010556)	3999	53	28.93	+	1.83	3.82E-06	3.02E-02
+regulation of RNA metabolic process (GO:0051252)	3782	50	27.36	+	1.83	1.02E-05	4.04E-02
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	4049	53	29.29	+	1.81	6.46E-06	3.41E-02
+regulation of cellular biosynthetic process (GO:0031326)	4163	53	30.12	+	1.76	1.39E-05	2.74E-02
+regulation of biosynthetic process (GO:0009889)	4226	53	30.57	+	1.73	2.40E-05	3.80E-02
